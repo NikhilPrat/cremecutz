@@ -1,0 +1,166 @@
+{
+  "siteUrl": "https://cremecutz.example.com",
+  "name": "Creme Cutz Barbershop",
+  "wordmark": "CREME CUTZ",
+  "seo": {
+    "title": "Creme Cutz Barbershop | Student Barber in Amherst, MA",
+    "description": "Student-run barbershop at UMass Amherst. Fades, haircuts, line ups and beard work at student prices. Book online in seconds.",
+    "ogImage": "/og-image.png"
+  },
+  "promo": {
+    "enabled": false,
+    "text": "Back to school special: ask about it when you book."
+  },
+  "booking": {
+    "url": "https://calendar.app.google/X7L3jdnQbqm5uuZb8",
+    "scheduleUrl": "https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1gtanjWwiLeCkearB_C78wJ8i48BQTVYIVC5FmQ8A0jmzLa82ZhMcX6muyR_LWnCxBNT4-PDLV",
+    "note": "Both links point to the same Google Calendar system. 'url' is used everywhere on the site. 'scheduleUrl' is kept as a backup (see TODO.md)."
+  },
+  "hero": {
+    "headline": "Fresh Cuts. Student Prices. Right on Campus.",
+    "subline": "Welcome to Creme Cutz, where every haircut is a work of art.",
+    "trust": "Student-run • UMass Amherst",
+    "primaryCta": "Book Your Cut",
+    "secondaryCta": "See the Work"
+  },
+  "services": {
+    "title": "Services & Pricing",
+    "items": [
+      {
+        "name": "Fade + Trim",
+        "price": 40,
+        "description": "The full cleanup: a fade plus a trim."
+      },
+      {
+        "name": "Haircut",
+        "alt": "Fade",
+        "price": 35,
+        "description": "Haircut only, or fade only. Your pick."
+      },
+      {
+        "name": "Line Up",
+        "alt": "Facial Hair",
+        "price": 20,
+        "description": "Line up only, or facial hair only. Your pick."
+      }
+    ],
+    "addon": {
+      "name": "Add a Beard",
+      "price": 7,
+      "description": "Add a beard to any service for +$7."
+    }
+  },
+  "gallery": {
+    "title": "The Work",
+    "intro": "A look at recent cuts.",
+    "items": [
+      {
+        "src": "/images/gallery/cut-1.jpg",
+        "alt": "Side profile of a textured, wavy top with a tapered fade",
+        "placeholder": false
+      },
+      {
+        "src": "/images/gallery/cut-2.jpg",
+        "alt": "Back view of a clean low taper fade with a textured top",
+        "placeholder": false
+      },
+      {
+        "src": "/images/gallery/cut-3.jpg",
+        "alt": "Side profile of a tapered fade with a textured top and a full shaped beard",
+        "placeholder": false
+      }
+    ]
+  },
+  "story": {
+    "title": "Our Story",
+    "subtitle": "Our Vision",
+    "paragraphs": [
+      "Creme Cutz is a distinguished barbershop in Amherst, MA, dedicated to providing top-notch hair services for the community.",
+      "Run by UMass students, for UMass students. We believe in the power of a great haircut to boost your confidence and style."
+    ]
+  },
+  "team": {
+    "enabled": false,
+    "title": "Meet the Barbers",
+    "intro": "At Creme Cutz, we believe in transforming haircuts into experiences. Our skilled barbers focus on precision and masterful techniques to craft hairstyles that reflect individual personalities.",
+    "members": [
+      {
+        "name": "Aidan Sacco",
+        "hometown": "Waltham, MA",
+        "background": "Senior, Management major, UMass Amherst",
+        "linkedin": "https://www.linkedin.com/in/aidansacco/",
+        "photo": "/images/team/aidan.svg"
+      },
+      {
+        "name": "Nikhil Pratapagiri",
+        "hometown": "Boston, MA",
+        "background": "Senior, CS major, UMass Amherst",
+        "linkedin": "https://www.linkedin.com/in/nikhilpratapagiri",
+        "photo": "/images/team/kashish.svg"
+      }
+    ]
+  },
+  "reviews": {
+    "enabled": false,
+    "title": "What Clients Say",
+    "items": [],
+    "emptyMessage": "Reviews coming soon. Got a cut from us? Tell us how it went."
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "steps": [
+      {
+        "title": "Pick a time",
+        "text": "Choose a slot that fits your schedule in our online calendar."
+      },
+      {
+        "title": "Show up",
+        "text": "Come to your appointment. Details are in your booking confirmation."
+      },
+      {
+        "title": "Walk out fresh",
+        "text": "Leave sharp and ready for whatever is next."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Location & Contact",
+    "phone": "+1 (617) 650-9668",
+    "phoneRaw": "+16176509668",
+    "email": "cremecutz0805@gmail.com",
+    "address": {
+      "show": true,
+      "street": "Patterson Hall, 204 Sunset Ave",
+      "city": "Amherst",
+      "region": "MA",
+      "postalCode": "01002",
+      "country": "US",
+      "hiddenMessage": "UMass Amherst campus. Appointment details sent after booking."
+    },
+    "hours": [],
+    "hoursMessage": "Hours are set by appointment availability. Open the booking calendar to see current times."
+  },
+  "social": {
+    "instagram": "https://www.instagram.com/cremecutz__/",
+    "linkedin": []
+  },
+  "faq": {
+    "title": "FAQ",
+    "items": [
+      {
+        "q": "What payment methods do you accept?",
+        "a": "Venmo or Zelle."
+      },
+      {
+        "q": "What is your cancellation or late policy?",
+        "a": "Please don't book if you won't be there. If you need to cancel, DM us on Instagram @cremecutz__."
+      },
+      {
+        "q": "How long does a cut take?",
+        "a": "About 1 hour."
+      }
+    ],
+    "pendingMessage": "Answer coming soon. Text or email us and we will get back to you."
+  },
+  "priceRange": "$$"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "creme-cutz",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "start": "node build.mjs && node serve.mjs"
+  }
+}
